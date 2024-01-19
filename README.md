@@ -15,7 +15,8 @@
 
 
 ## 🌱 Education
-- Bachelor of Software Engineering, [ EHEIO ], Class of 2024
+- Bachelor of Software Engineering 2024
+  
 
 ## 📫 Connect with Me
 - Email: oussama.ben.hadda.a@proton.me
