@@ -18,8 +18,7 @@
 - Bachelor of Software Engineering 2024
   
 
-## 📫 Connect with Me
-- Email: oussama.ben.hadda.a@proton.me
+
 
 ## GitHub Stats
 ![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussBenO&show_icons=true&theme=radical)
