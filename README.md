@@ -2,7 +2,7 @@
 # Hi there, I'm Oussama! 👋
 
 ## 🧑🏻‍💻 About Me
- I'm Oussama, a dedicated 4th-year Software Engineering student with a strong passion for creating robust and innovative solutions.
+ A dedicated 4th-year Software Engineering student with a strong passion for creating robust and innovative solutions.
  I specialize in web development using ASP.NET Core, Symfony, and ReactJS.
  My journey in software engineering has been enriched with experiences working on various projects and technologies.
 
@@ -14,8 +14,6 @@
 - Cloud Services: Microsoft Azure .
 
 
-## 🌱 Education
-- Bachelor of Software Engineering 2024
   
 
 
