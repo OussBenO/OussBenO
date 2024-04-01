@@ -28,8 +28,6 @@ My goal is to leverage my educational background, practical experience, and pass
 
 <br>
 
-
-## Favorite eBooks
 ## Favorit ebooks
 <div align="center">
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
@@ -39,7 +37,7 @@ My goal is to leverage my educational background, practical experience, and pass
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
 
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/I/811EGiSqCPL.jpg" />
-   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://github.com/D4Fi/D4Fi/assets/139288494/a7e7b66c-a835-49ca-a2d3-eafc0690086c" />
+  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://github.com/D4Fi/D4Fi/assets/139288494/a7e7b66c-a835-49ca-a2d3-eafc0690086c" />
 </div>
 
 <hr>
