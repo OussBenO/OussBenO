@@ -6,7 +6,7 @@
 
 
 ## Overview
-I am a fourth-year Software Engineering student dedicated to mastering the intricacies of software development and engineering principles. Passionate about utilizing technology to tackle complex problems and create innovative solutions. 
+Final-year of Software Engineering student dedicated to mastering the intricacies of software development and engineering principles. Passionate about utilizing technology to tackle complex problems and create innovative solutions. 
 
 ## Academic Journey
 In my academic pursuits, I actively engage with various programming languages, software development methodologies, and cutting-edge technologies to enhance my skills and knowledge in the field of software engineering.
